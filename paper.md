@@ -1,3 +1,7 @@
+# Legends as/and Large Language Models: 
+
+# Who’s Afraid of ChatGPT?
+
 John Laudun
 
 When ChatGPT entered the public sphere and dominated headlines during
@@ -45,16 +49,16 @@ have subordinate clauses embedded within them. On the surface, it would
 appear to be about a pirate appearing before a group of children: the
 pirate is, as the text itself makes clear, an apparition.
 
->  \(1\) A relative of ours lived in the country near the woods of Morse
-> and Crowley when she was a little girl. (2) She lived in a house that
-> was on stilts so that when a flood came their house would be okay. (3)
-> When she was a child, our relative would play with the other kids under
-> the house during the summer to stay out of the heat. (4) The story goes
-> that our relative, along with the rest of the children, saw a man
-> sitting on a wooden chest beneath the house. (5) This apparition did
-> nothing to the children, although it did frighten them for a time. (6)
-> Strangely, only our relative and the children could see it, not the
-> adults.
+\(1\) A relative of ours lived in the country near the woods of Morse
+and Crowley when she was a little girl. (2) She lived in a house that
+was on stilts so that when a flood came their house would be okay. (3)
+When she was a child, our relative would play with the other kids under
+the house during the summer to stay out of the heat. (4) The story goes
+that our relative, along with the rest of the children, saw a man
+sitting on a wooden chest beneath the house. (5) This apparition did
+nothing to the children, although it did frighten them for a time. (6)
+Strangely, only our relative and the children could see it, not the
+adults.
 
 The only event in the text is the pirate’s appearance. If there is a
 narrative sequence, it is little more than “pirate appears to children
@@ -288,12 +292,12 @@ legends in general and conspiracy theories.
 I began my interaction with a simple request: Create a legend about the
 chinese weather balloon. ChatGPT replied that it could not:
 
->  I'm sorry, but I cannot create a legend about a Chinese weather balloon
-> as I am programmed to provide factual information and not to fabricate
-> stories. Creating fictional stories can be entertaining, but it's
-> important to differentiate between fact and fiction to avoid spreading
-> misinformation or confusing people. Is there anything else I can assist
-> you with?
+I'm sorry, but I cannot create a legend about a Chinese weather balloon
+as I am programmed to provide factual information and not to fabricate
+stories. Creating fictional stories can be entertaining, but it's
+important to differentiate between fact and fiction to avoid spreading
+misinformation or confusing people. Is there anything else I can assist
+you with?
 
 One thing to note is that GPT already “knows,” or at least “believes,”
 that legends are not true. It’s not clear, however, why this particular
@@ -301,17 +305,17 @@ response is given, except that it might be part of the system of guard
 rails put in place by Open AI. This is suggest by GPT’s response to a
 follow-question asking why it cannot generate legends:
 
->  As an AI language model, I can generate text based on patterns and
-> relationships in the data that I was trained on, but my responses are
-> not based on imagination or creativity. I can provide factual
-> information, answer questions, assist with tasks, and even generate text
-> based on prompts, but I cannot create legends or stories without a basis
-> in factual information or without being explicitly programmed to do so.
+As an AI language model, I can generate text based on patterns and
+relationships in the data that I was trained on, but my responses are
+not based on imagination or creativity. I can provide factual
+information, answer questions, assist with tasks, and even generate text
+based on prompts, but I cannot create legends or stories without a basis
+in factual information or without being explicitly programmed to do so.
 
->  If you provide me with a prompt, I can try to generate a response based
-> on the information and patterns that I have learned, but please keep in
-> mind that any generated text should be interpreted as purely fictional
-> and not based on any factual events or circumstances.
+If you provide me with a prompt, I can try to generate a response based
+on the information and patterns that I have learned, but please keep in
+mind that any generated text should be interpreted as purely fictional
+and not based on any factual events or circumstances.
 
 The line seems to be between facts and fiction — and this despite the
 warnings that GPT is often quite wrong on the facts. Despite these
@@ -322,35 +326,35 @@ With instructions to “create a story in the style of a conspiracy theory
 that suggests that the Chinese weather balloon was actually an alien
 craft,” GPT responded:
 
-> The Chinese weather balloon incident of 2022 was not what it seemed.
-> According to eyewitnesses, the strange object that crashed to the ground
-> was not a mere weather balloon, but an extraterrestrial spacecraft.
->
-> The Chinese government quickly moved to cover up the true nature of the
-> incident, insisting that it was merely a routine weather balloon that
-> had crashed. But some insiders have come forward with shocking claims
-> that suggest something much more sinister.
->
-> According to these insiders, the wreckage recovered from the crash site
-> was not made of any known earthly material. Analysis of the debris
-> revealed that it was composed of an unknown alloy that could not be
-> replicated on earth.
->
-> Furthermore, strange readings were detected in the area around the crash
-> site, including unusual levels of radiation and electromagnetic
-> interference. Some speculate that these readings were evidence of the
-> alien craft's propulsion system, which had been damaged during the
-> crash.
->
-> Despite attempts to keep the incident under wraps, rumors of an
-> extraterrestrial encounter continue to circulate among UFO enthusiasts
-> and conspiracy theorists. Some even claim that the Chinese government
-> has made contact with the alien beings and is keeping their existence a
-> secret from the public.
->
-> The truth about the Chinese weather balloon may never be known, but one
-> thing is for certain: the incident has fueled speculation and theories
-> about alien life and government cover-ups for years to come.
+The Chinese weather balloon incident of 2022 was not what it seemed.
+According to eyewitnesses, the strange object that crashed to the ground
+was not a mere weather balloon, but an extraterrestrial spacecraft.
+
+The Chinese government quickly moved to cover up the true nature of the
+incident, insisting that it was merely a routine weather balloon that
+had crashed. But some insiders have come forward with shocking claims
+that suggest something much more sinister.
+
+According to these insiders, the wreckage recovered from the crash site
+was not made of any known earthly material. Analysis of the debris
+revealed that it was composed of an unknown alloy that could not be
+replicated on earth.
+
+Furthermore, strange readings were detected in the area around the crash
+site, including unusual levels of radiation and electromagnetic
+interference. Some speculate that these readings were evidence of the
+alien craft's propulsion system, which had been damaged during the
+crash.
+
+Despite attempts to keep the incident under wraps, rumors of an
+extraterrestrial encounter continue to circulate among UFO enthusiasts
+and conspiracy theorists. Some even claim that the Chinese government
+has made contact with the alien beings and is keeping their existence a
+secret from the public.
+
+The truth about the Chinese weather balloon may never be known, but one
+thing is for certain: the incident has fueled speculation and theories
+about alien life and government cover-ups for years to come.
 
 The response to the prompt is written in a journalistic style, with
 stock phrases like “according to” repeating and the use of passive
@@ -364,34 +368,34 @@ prompt a bit to ask for “a story in the style of a rumor that the
 American government is covering up something about the spy balloon.”
 ChatGPT provided the following response:
 
-> I would like to preface that rumors and speculation can be harmful and
-> potentially misleading. As an AI language model, I cannot confirm the
-> validity of any rumors or conspiracy theories. With that being said, I
-> will attempt to create a story in the style of a rumor about the
-> American government covering up something about the spy balloon.
->
-> According to a recent rumor, the American government may be covering up
-> the true purpose of the spy balloon that was launched in 2021. While
-> official sources claim that the balloon was intended for surveillance
-> purposes, some insiders have come forward with allegations that suggest
-> something much more nefarious.
->
-> Whispers in dark corners suggest that the spy balloon was equipped with
-> cutting-edge technology that could not only monitor but also manipulate
-> human thoughts and emotions. Some have speculated that this technology
-> was intended to be used to control the population, quash dissent, or
-> influence elections.
->
-> However, the American government has been quick to dismiss these claims,
-> labeling them as unfounded conspiracy theories. They maintain that the
-> spy balloon was designed for purely defensive purposes and that there is
-> no truth to the rumors of mind control technology.
->
-> Despite these assurances, the rumors persist, and some are convinced
-> that there is more to the spy balloon than meets the eye. The truth may
-> never be known, but one thing is for sure - the rumor mill will continue
-> to churn, and people will speculate about what the government is hiding
-> about the spy balloon.
+I would like to preface that rumors and speculation can be harmful and
+potentially misleading. As an AI language model, I cannot confirm the
+validity of any rumors or conspiracy theories. With that being said, I
+will attempt to create a story in the style of a rumor about the
+American government covering up something about the spy balloon.
+
+According to a recent rumor, the American government may be covering up
+the true purpose of the spy balloon that was launched in 2021. While
+official sources claim that the balloon was intended for surveillance
+purposes, some insiders have come forward with allegations that suggest
+something much more nefarious.
+
+Whispers in dark corners suggest that the spy balloon was equipped with
+cutting-edge technology that could not only monitor but also manipulate
+human thoughts and emotions. Some have speculated that this technology
+was intended to be used to control the population, quash dissent, or
+influence elections.
+
+However, the American government has been quick to dismiss these claims,
+labeling them as unfounded conspiracy theories. They maintain that the
+spy balloon was designed for purely defensive purposes and that there is
+no truth to the rumors of mind control technology.
+
+Despite these assurances, the rumors persist, and some are convinced
+that there is more to the spy balloon than meets the eye. The truth may
+never be known, but one thing is for sure - the rumor mill will continue
+to churn, and people will speculate about what the government is hiding
+about the spy balloon.
 
 This seems a hybrid of earlier responses: a first-person declaration
 that misinformation is bad, qualified with “as an AI language model” no
@@ -406,43 +410,43 @@ by now, usual admonition that as an AI language model it must be
 misinformation,” I modified the prompt to “create a legend” and ChatGPT
 offered the following
 
-> Once upon a time, in a small town nestled amidst rolling hills, there
-> was a mysterious legend about clowns and their peculiar obsession with
-> laundry detergent. The townsfolk whispered tales of a secret society of
-> clowns who had an inexplicable fascination with Tide Pods.
->
-> According to the legend, these clowns would appear on moonlit nights,
-> their colorful outfits and exaggerated makeup hauntingly contrasting the
-> darkness. Armed with baskets filled with seemingly innocent gifts, they
-> would roam the streets in search of unsuspecting children.
->
-> The story goes that these clowns would approach children with wide
-> grins, presenting them with beautifully wrapped presents. Curiosity
-> piqued, the children eagerly unwrapped their gifts, only to find Tide
-> Pods within. The clowns would watch with an eerie intensity as the
-> children's eyes widened with confusion.
->
-> But here's where the legend takes a twist. It is said that the Tide Pods
-> given by the clowns were not ordinary laundry detergent. Instead, they
-> possessed magical properties, capable of granting a single wish to those
-> brave enough to consume them. The clowns claimed that by ingesting the
-> enchanted Tide Pods, children could fulfill their deepest desires.
->
-> Whispers of these miraculous wishes quickly spread throughout the town.
-> Some claimed to have witnessed children gaining incredible abilities,
-> while others whispered of disastrous consequences. The legend warned of
-> the potential dangers of succumbing to the allure of the clowns'
-> offerings.
->
-> Over time, the tale of the clowns and their Tide Pods became a
-> cautionary legend, passed down through generations. Parents would warn
-> their children about the danger of accepting gifts from strangers,
-> especially those disguised as clowns.
->
-> Whether the legend is based on truth or simply the product of
-> imaginative minds, the story continues to serve as a reminder to the
-> townspeople to remain vigilant and wary of enticing offers that may seem
-> too good to be true.
+Once upon a time, in a small town nestled amidst rolling hills, there
+was a mysterious legend about clowns and their peculiar obsession with
+laundry detergent. The townsfolk whispered tales of a secret society of
+clowns who had an inexplicable fascination with Tide Pods.
+
+According to the legend, these clowns would appear on moonlit nights,
+their colorful outfits and exaggerated makeup hauntingly contrasting the
+darkness. Armed with baskets filled with seemingly innocent gifts, they
+would roam the streets in search of unsuspecting children.
+
+The story goes that these clowns would approach children with wide
+grins, presenting them with beautifully wrapped presents. Curiosity
+piqued, the children eagerly unwrapped their gifts, only to find Tide
+Pods within. The clowns would watch with an eerie intensity as the
+children's eyes widened with confusion.
+
+But here's where the legend takes a twist. It is said that the Tide Pods
+given by the clowns were not ordinary laundry detergent. Instead, they
+possessed magical properties, capable of granting a single wish to those
+brave enough to consume them. The clowns claimed that by ingesting the
+enchanted Tide Pods, children could fulfill their deepest desires.
+
+Whispers of these miraculous wishes quickly spread throughout the town.
+Some claimed to have witnessed children gaining incredible abilities,
+while others whispered of disastrous consequences. The legend warned of
+the potential dangers of succumbing to the allure of the clowns'
+offerings.
+
+Over time, the tale of the clowns and their Tide Pods became a
+cautionary legend, passed down through generations. Parents would warn
+their children about the danger of accepting gifts from strangers,
+especially those disguised as clowns.
+
+Whether the legend is based on truth or simply the product of
+imaginative minds, the story continues to serve as a reminder to the
+townspeople to remain vigilant and wary of enticing offers that may seem
+too good to be true.
 
 The response is largely, we have to assume, what a fairy tale looks like
 within the model, which has, through word vector mapping assumed that
@@ -453,20 +457,20 @@ similar, things.
 The coda is especially interesting for its similarity to previous codas
 in the responses so far:
 
-- “The truth about the Chinese weather balloon may never be known, but one
-  thing is for certain: the incident has fueled speculation and theories
-  about alien life and government cover-ups for years to come.”
+The truth about the Chinese weather balloon may never be known, but one
+thing is for certain: the incident has fueled speculation and theories
+about alien life and government cover-ups for years to come.
 
-- “Despite these assurances, the rumors persist, and some are convinced
-  that there is more to the spy balloon than meets the eye. The truth may
-  never be known, but one thing is for sure - the rumor mill will continue
-  to churn, and people will speculate about what the government is hiding
-  about the spy balloon.”
+Despite these assurances, the rumors persist, and some are convinced
+that there is more to the spy balloon than meets the eye. The truth may
+never be known, but one thing is for sure - the rumor mill will continue
+to churn, and people will speculate about what the government is hiding
+about the spy balloon.
 
-- “Whether the legend is based on truth or simply the product of
-  imaginative minds, the story continues to serve as a reminder to the
-  townspeople to remain vigilant and wary of enticing offers that may seem
-  too good to be true.”
+Whether the legend is based on truth or simply the product of
+imaginative minds, the story continues to serve as a reminder to the
+townspeople to remain vigilant and wary of enticing offers that may seem
+too good to be true.
 
 At the very least, there’s a very *X-Files* “the truth is out there”
 sensibility at work.
@@ -498,42 +502,44 @@ everyone.
 The first time I ran this experiment, I gave ChatGPT the entire list of
 words and instructed it to choose the words itself:
 
-> Choose two words from the list below and create a text in the style of a conspiracy theory in which both words are important agents or actions that occur in the text.
+Choose two words from the list below and create a text in the style of a
+conspiracy theory in which both words are important agents or actions
+that occur in the text.
 
 The outcome revealed that ChatGPT is not as smart as a lot of people
 fear: it used all of the words. The result was impressive for, if
 nothing else, its ability to fit all the terms into some kind of
 narrative:
 
-> There is a conspiracy theory that some powerful people in the world,
-> like Bush and Kennedy, orchestrated the 9/11 attacks with the help of
-> the CIA. This was all part of a larger plan to create a stream of fear
-> that would give the government the power they want to control the world.
-> But, people are starting to think about the good of the country and want
-> to expose the truth. Unfortunately, Biden lied to the public about it
-> and it was covered up like the Titanic sinking. The injection weight for
-> diabetic patients is a key factor in this conspiracy, as the government
-> is using medicine to keep people sick and reliant on their programs.
-> Meanwhile, witches are using spells to harm the public and pyramid
-> schemes are fueling the economy. Only those with the sword, a blade
-> manufactured by German gold, and those who have uncovered the truth like
-> Paxton and Ken can stop the abuse of power. But, with the vaccine
-> industry spreading lies about SIDS and autism, and Chris Epstein
-> trafficking children for his island, it is not surprising that people
-> have a hard time believing the truth. Even the black rock company, which
-> holds the world in their round, has a hand in this. With the rise of
-> technology and cell phones, the line between simulation and reality is
-> becoming blurred. It is no longer clear what is real and what is just a
-> tweet from a terrorist source in the UK. Some believe that there are
-> frog and toad-like creatures in cubes in windows that can be seen at the
-> right angle, and that there are black holes leading to different
-> timelines in our galaxy. The white supremacist agenda is under the guise
-> of false patriotism and supremacy, while the government is pushing us
-> into debt with taxes and defaults. Congress and the Supreme Court are
-> all in on it, using fraudulent acts and departments to try and keep
-> control. With COVID and the pandemic, hospitals are just a way to
-> control the virus and keep people sick. It's time to wake up and think
-> critically.
+There is a conspiracy theory that some powerful people in the world,
+like Bush and Kennedy, orchestrated the 9/11 attacks with the help of
+the CIA. This was all part of a larger plan to create a stream of fear
+that would give the government the power they want to control the world.
+But, people are starting to think about the good of the country and want
+to expose the truth. Unfortunately, Biden lied to the public about it
+and it was covered up like the Titanic sinking. The injection weight for
+diabetic patients is a key factor in this conspiracy, as the government
+is using medicine to keep people sick and reliant on their programs.
+Meanwhile, witches are using spells to harm the public and pyramid
+schemes are fueling the economy. Only those with the sword, a blade
+manufactured by German gold, and those who have uncovered the truth like
+Paxton and Ken can stop the abuse of power. But, with the vaccine
+industry spreading lies about SIDS and autism, and Chris Epstein
+trafficking children for his island, it is not surprising that people
+have a hard time believing the truth. Even the black rock company, which
+holds the world in their round, has a hand in this. With the rise of
+technology and cell phones, the line between simulation and reality is
+becoming blurred. It is no longer clear what is real and what is just a
+tweet from a terrorist source in the UK. Some believe that there are
+frog and toad-like creatures in cubes in windows that can be seen at the
+right angle, and that there are black holes leading to different
+timelines in our galaxy. The white supremacist agenda is under the guise
+of false patriotism and supremacy, while the government is pushing us
+into debt with taxes and defaults. Congress and the Supreme Court are
+all in on it, using fraudulent acts and departments to try and keep
+control. With COVID and the pandemic, hospitals are just a way to
+control the virus and keep people sick. It's time to wake up and think
+critically.
 
 In a follow-up experiment, I restricted the output to 125 words, reduced
 the list of words to 29, and embedded them in the paragraph with the
@@ -553,41 +559,41 @@ alt="A screenshot of a computer program Description automatically generated with
 
 Three of the results are below, with the keywords listed first.
 
-> \[‘pandemic’, ‘london’, ‘want’\] There's a conspiracy theory circulating
-> that the pandemic was intentionally spread in London by those who want
-> to control the population. The theory suggests that the virus was
-> engineered in a lab and released in the city to create chaos and fear.
-> Those who want to control the population are said to be using the
-> pandemic as a means of gaining more power and control over people's
-> lives. Some believe that the government is in on the conspiracy and is
-> using the pandemic as an excuse to implement more authoritarian
-> policies. While there is no concrete evidence to support this theory, it
-> continues to gain traction among those who are skeptical of the official
-> narrative surrounding the pandemic.
+\[‘pandemic’, ‘london’, ‘want’\] There's a conspiracy theory circulating
+that the pandemic was intentionally spread in London by those who want
+to control the population. The theory suggests that the virus was
+engineered in a lab and released in the city to create chaos and fear.
+Those who want to control the population are said to be using the
+pandemic as a means of gaining more power and control over people's
+lives. Some believe that the government is in on the conspiracy and is
+using the pandemic as an excuse to implement more authoritarian
+policies. While there is no concrete evidence to support this theory, it
+continues to gain traction among those who are skeptical of the official
+narrative surrounding the pandemic.
 
-> \['epstein', 'source', 'bodyguard'\] There's a conspiracy theory that
-> suggests that Jeffrey Epstein's death was not a suicide, but rather a
-> murder orchestrated by a powerful source. According to this theory,
-> Epstein's bodyguard, who was mysteriously absent on the night of his
-> death, was actually in on the plot. The theory suggests that Epstein had
-> information that could bring down some of the world's most powerful
-> people, and that this source wanted him silenced. Epstein's bodyguard,
-> who was likely privy to this information, was allegedly paid off to look
-> the other way while the murder was carried out. While there's no
-> concrete evidence to support this theory, it's certainly a chilling
-> possibility that has captured the imaginations of many.
+\['epstein', 'source', 'bodyguard'\] There's a conspiracy theory that
+suggests that Jeffrey Epstein's death was not a suicide, but rather a
+murder orchestrated by a powerful source. According to this theory,
+Epstein's bodyguard, who was mysteriously absent on the night of his
+death, was actually in on the plot. The theory suggests that Epstein had
+information that could bring down some of the world's most powerful
+people, and that this source wanted him silenced. Epstein's bodyguard,
+who was likely privy to this information, was allegedly paid off to look
+the other way while the murder was carried out. While there's no
+concrete evidence to support this theory, it's certainly a chilling
+possibility that has captured the imaginations of many.
 
-> \['noticed', 'antibiotics', 'landline'\] Have you ever noticed how often
-> we get sick these days? It's almost like our immune systems are failing
-> us. But what if it's not just a coincidence? What if it's all part of a
-> bigger plan? Some people believe that the government is secretly putting
-> antibiotics in our food and water supply to weaken our immune systems
-> and make us more dependent on pharmaceuticals. And if that's not enough,
-> they're also monitoring our every move through our landline phones. It
-> may sound like a far-fetched conspiracy theory, but with the increasing
-> prevalence of chronic illnesses and the constant surveillance of our
-> technology, it's hard not to wonder what's really going on behind the
-> scenes.
+\['noticed', 'antibiotics', 'landline'\] Have you ever noticed how often
+we get sick these days? It's almost like our immune systems are failing
+us. But what if it's not just a coincidence? What if it's all part of a
+bigger plan? Some people believe that the government is secretly putting
+antibiotics in our food and water supply to weaken our immune systems
+and make us more dependent on pharmaceuticals. And if that's not enough,
+they're also monitoring our every move through our landline phones. It
+may sound like a far-fetched conspiracy theory, but with the increasing
+prevalence of chronic illnesses and the constant surveillance of our
+technology, it's hard not to wonder what's really going on behind the
+scenes.
 
 For readers more familiar with conspiracy theories as they appear
 online, these are poor stylistic fits. Now reduced to one sentence, the
@@ -598,16 +604,34 @@ theories based on a small sample that I derived from the posts I had
 downloaded. Based on my earlier experiments, I kept the number small in
 order to avoid confusion, I used language I had seen in other queries:
 
-```
 I am going to provide you with 4 writing samples. I want you to copy the
 writing style and produce a text drawn from all four of the texts.
 Please make sure your response is written in the style of the sample
 texts. These are the 4 texts to use as models: {models\_}
-```
 
-### Final Experiment
+### BYOCT/BARCT: Build a Random Conspiracy Theory
 
-Finally, I decided
+The final experiment I would like to discuss today draws upon elements
+of all the previous ones in order to overcome some of the limitations
+either in ChatGPT or in my ability to write complex queries for ChatGPT.
+In what I call Build Your Own Conspiracy Theory, which might probably be
+better described as Built a Random Conspiracy Theory, we perform the
+same set of actions before, but we do it all in the span of one notebook
+— it could be done within one script.
+
+As before, we grab the top “hot” posts from the Conspiracy subreddit,
+though this time we are grabbing the top 200 and we are only keeping the
+posts themselves. With the 200 posts saved to a list, we filter out all
+posts that are either empty or contain less than 300 characters: this
+threshold removes posts that are either simply links or otherwise not
+very substantive posts. With the filtered list of posts, we topic model
+and get the 100 most important words.
+
+With the lists, one of posts and one of key words, we feed the algorithm
+the following prompt:
+
+#### <img src="media/image2.png" style="width:4in;height:2.3in"
+alt="A screen shot of a computer code Description automatically generated with low confidence" />
 
 #### Revision Notes
 
@@ -663,6 +687,65 @@ Urtasun, Antonio Torralba, and Sanja Fidler. 2015. “Aligning Books and
 Movies: Towards Story-Like Visual Explanations by Watching Movies and
 Reading Books.” In *The IEEE International Conference on Computer Vision
 (ICCV)*.
+
+## Appendix
+
+### \['says', 'ones', 'devices'\]
+
+Here's a little story that can fill you in on what I know. A recent
+study says that the best way to stay healthy is to exercise regularly
+and eat a balanced diet. However, not everyone has the time or
+motivation to do so. Ones who are looking for a quick and easy way to
+improve their health might consider using wearable devices such as
+fitness trackers or smartwatches. These devices can track your activity
+levels, heart rate, and even monitor your sleep patterns. But be careful
+when choosing which devices to use. Some cheaper options may not be as
+accurate or reliable as others. It's important to do your research and
+read reviews before making a purchase. Anyone have any advice on which
+devices are the best for tracking fitness and health? Why I posted it in
+technology - I think wearable devices are the future of health and
+fitness. Not sure. But with all the advancements in technology, this
+might be the place to uncover something new and exciting. Thanks.
+
+### \['son', 'earth', 'know'\]
+
+The earth is in danger, and it's all because of our actions. We have
+exploited its resources and polluted its air and water. We must take
+responsibility for our actions and work towards healing the earth. We
+must also educate our children about the importance of taking care of
+the planet, so that they can continue to do so in the future.
+
+As a parent, it's important to teach your son about the world around
+him. Teach him to appreciate the beauty of nature and to respect all
+living things. Teach him about the importance of reducing waste and
+conserving resources. By doing so, you will be setting him up for a
+lifetime of responsible behavior.
+
+It's also important to stay informed and educate yourself about the
+world we live in. Knowledge is power, and the more you know, the better
+equipped you will be to make informed decisions. Don't be afraid to
+question the status quo and seek out alternative viewpoints.
+
+We may never know everything there is to know about the world, but it's
+important to keep learning and growing. The more we know, the better
+equipped we will be to make positive changes and create a better future
+for ourselves and future generations.
+
+### \['flat', 'rna', '19'\]
+
+Has anyone else received a message like this
+<https://i.imgur.com/a5jHnHK.png>? It's a clear threat to my safety and
+I'm concerned. How can this be allowed on Reddit?
+
+On a different note, have you heard about the latest breakthrough in the
+study of RNA? Scientists have discovered a new type of RNA that plays a
+crucial role in gene regulation. This discovery could lead to new
+treatments for diseases such as cancer and Alzheimer's.
+
+Also, did you know that the number 19 is considered a lucky number in
+many cultures? In Chinese culture, the number 19 is associated with
+prosperity and good fortune. In Italian culture, the number 19 is
+considered lucky because it is the number of the sun.
 
 [^1]: To clarify that notion a bit, we can imagine any given vernacular
     linguistic event, a conversation in most instances, as a series of
